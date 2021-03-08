@@ -2,6 +2,7 @@
 title: About This Example
 nav: About
 nav_order: 2
+layout: page 
 ---
 
 Hi I'm Adam, a Librarian!

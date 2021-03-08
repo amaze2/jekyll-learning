@@ -1,9 +1,9 @@
 color_class,color
-primary,
+primary, #cdcdcd
 secondary,
 success,
 info,
 warning,
 danger,
 light,
-dark,
+dark, purple

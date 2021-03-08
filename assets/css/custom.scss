@@ -4,14 +4,16 @@
 @charset "utf-8";
 
 /* Optionally tweak base body text and link color */
-$text-color: #111 !default;
-$link-color: #2a7ae2 !default;
+$text-color: #115 !default;
+$link-color: #197367 !default;
 
 /* Set contain-narrow size for page-narrow layout */
 $container-narrow: 700px;
 
 /* Optionally limit container size to make reading easier */
-// $container-max: 750px;
+$container-max: 750px;
+
+$grey-color: #cdcdcd;
 
 /* 
   Colors to theme 
